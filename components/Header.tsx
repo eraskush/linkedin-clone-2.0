@@ -14,7 +14,7 @@ function Header() {
           alt="linkedin Logo"   
         />
         <div className='flex-1 '>
-            <form className='flex items-center space-x-2 bg-gray-100 p-2 rounded-md flex-1 mx-2 max-w-96'>
+            <form className='flex items-center space-x-2 bg-gray-100 p-2 rounded-4xl outline-1 flex-1 mx-2 max-w-96'>
             <SearchIcon className='h-4 text-gray-600' />
             <input 
               type="text" 
